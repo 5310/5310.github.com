@@ -1,0 +1,10 @@
+# X	Proof what to write.
+# X	Settle a layout.
+# X	Choose typefaces.
+# X	Create project with boilerplate.
+#	Publish project.
+#	Collect CSS for GWF typefaces.
+#	Write markup for page with classes and stuff.
+#	Style text-layout.
+#	Style page.
+#	Suitably prepare identity and put into page.
