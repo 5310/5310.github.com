@@ -2,7 +2,7 @@
 # X	Settle a layout.
 # X	Choose typefaces.
 # X	Create project with boilerplate.
-#	Publish project.
+# X	Publish project.
 #	Collect CSS for GWF typefaces.
 #	Write markup for page with classes and stuff.
 #	Style text-layout.
