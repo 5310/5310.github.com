@@ -3,8 +3,9 @@
 # X	Choose typefaces.
 # X	Create project with boilerplate.
 # X	Publish project.
-#	Collect CSS for GWF typefaces.
-#	Write markup for page with classes and stuff.
+# X	Collect CSS for GWF typefaces.
+#	Write basic text.
+#	Edit markup with classes and stuff.
 #	Style text-layout.
 #	Style page.
 #	Suitably prepare identity and put into page.
