@@ -4,7 +4,7 @@
 # X	Create project with boilerplate.
 # X	Publish project.
 # X	Collect CSS for GWF typefaces.
-#	Write basic text.
+# X	Write basic text.
 #	Edit markup with classes and stuff.
 #	Style text-layout.
 #	Style page.
