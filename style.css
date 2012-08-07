@@ -2,3 +2,71 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-family: 'Enriqueta', serif;
 }
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+a:hover {
+	color: #333;
+}
+
+#center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+
+#poster {
+	width: 230px;
+	height: 340px;
+	margin-left: -115px;
+	margin-top: -196.5px;
+}
+
+#iam {
+	font-family: 'Source Sans Pro';
+	font-style: normal;
+	font-weight: 200;
+	font-size: 132px;
+	/*letter-spacing:-0.05em*/
+}
+
+#scio {
+	font-family: 'Enriqueta';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 120px;
+	margin-top: -55px;
+	margin-left: 2px;
+}
+
+#seeo {
+	font-family: 'Source Sans Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 13px;
+	margin-top: -3px;
+	margin-left: 115px;
+}
+#seeo > em {
+	font-style: italic;
+}
+
+#this {
+	font-family: 'Source Sans Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	margin-top: 5px;
+	margin-left: 7px;
+}
+
+#github {
+	font-family: 'Enriqueta';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 73px;
+	margin-top: -5px;
+	margin-left: 4px;
+}
