@@ -21,15 +21,19 @@ a:hover {
 	width: 230px;
 	height: 340px;
 	margin-left: -115px;
-	margin-top: -170px;
+	margin-top: -180px;
 }
 
 #iam {
 	font-family: 'Source Sans Pro';
 	font-style: normal;
 	font-weight: 200;
-	font-size: 132px;
+	font-size: 140px;
 	/*letter-spacing:-0.05em*/
+}
+
+#iam-space {
+	letter-spacing: -12px;
 }
 
 #scio {
